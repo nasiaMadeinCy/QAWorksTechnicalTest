@@ -41,4 +41,3 @@ Please refer to GENERAL USAGE of this document for details.
 ===================================================================
 Contact Information:
 E-mail: herodotou.anastasia@gmail.com
-Voice: +30 699 88 33 677
