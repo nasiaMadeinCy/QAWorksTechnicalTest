@@ -25,6 +25,11 @@ For cross browser compatibility you can execute:
 This will execute the tests with Chrome.
 You can run the tests with either Firefox or Chrome at the moment.
 
+Alternative ways (Using IDE):
+	1. Open project with IDE
+	2. Right click on the  "ContactUsPage.feature" file and Run
+	OR Right click on the runner file "ContactUsPageTest.java" and Run
+
 Report can be found at \target\cucumber\index.html after the execution of the 
 tests.
 
